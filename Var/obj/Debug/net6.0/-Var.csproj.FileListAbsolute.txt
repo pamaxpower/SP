@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\bin\Debug\net6.0\-Var.exe
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\bin\Debug\net6.0\-Var.deps.json
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\bin\Debug\net6.0\-Var.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\bin\Debug\net6.0\-Var.dll
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\bin\Debug\net6.0\-Var.pdb
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\-Var.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\-Var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\-Var.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\-Var.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\-Var.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\-Var.dll
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\refint\-Var.dll
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\-Var.pdb
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\-Var.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\-Var\obj\Debug\net6.0\ref\-Var.dll

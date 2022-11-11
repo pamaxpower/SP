@@ -1,0 +1,15 @@
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\Out.csproj.AssemblyReference.cache
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\Out.AssemblyInfoInputs.cache
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\Out.AssemblyInfo.cs
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\Out.csproj.CoreCompileInputs.cache
+C:\Users\LordIK\Desktop\tetris\Out\bin\Debug\net6.0\Out.exe
+C:\Users\LordIK\Desktop\tetris\Out\bin\Debug\net6.0\Out.deps.json
+C:\Users\LordIK\Desktop\tetris\Out\bin\Debug\net6.0\Out.runtimeconfig.json
+C:\Users\LordIK\Desktop\tetris\Out\bin\Debug\net6.0\Out.dll
+C:\Users\LordIK\Desktop\tetris\Out\bin\Debug\net6.0\Out.pdb
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\Out.dll
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\refint\Out.dll
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\Out.pdb
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\Out.genruntimeconfig.cache
+C:\Users\LordIK\Desktop\tetris\Out\obj\Debug\net6.0\ref\Out.dll

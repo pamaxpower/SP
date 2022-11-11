@@ -1,0 +1,15 @@
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\Rec.csproj.AssemblyReference.cache
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\Rec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\Rec.AssemblyInfoInputs.cache
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\Rec.AssemblyInfo.cs
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\Rec.csproj.CoreCompileInputs.cache
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\bin\Debug\net6.0\Rec.exe
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\bin\Debug\net6.0\Rec.deps.json
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\bin\Debug\net6.0\Rec.runtimeconfig.json
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\bin\Debug\net6.0\Rec.dll
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\bin\Debug\net6.0\Rec.pdb
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\Rec.dll
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\refint\Rec.dll
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\Rec.pdb
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\Rec.genruntimeconfig.cache
+C:\Users\LordIK\Desktop\tetris\SimpleCode\Rec\obj\Debug\net6.0\ref\Rec.dll

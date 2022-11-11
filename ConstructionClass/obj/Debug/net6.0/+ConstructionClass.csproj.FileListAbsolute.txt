@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\+ConstructionClass.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\+ConstructionClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\+ConstructionClass.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\+ConstructionClass.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\+ConstructionClass.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\bin\Debug\net6.0\+ConstructionClass.exe
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\bin\Debug\net6.0\+ConstructionClass.deps.json
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\bin\Debug\net6.0\+ConstructionClass.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\bin\Debug\net6.0\+ConstructionClass.dll
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\bin\Debug\net6.0\+ConstructionClass.pdb
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\+ConstructionClass.dll
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\refint\+ConstructionClass.dll
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\+ConstructionClass.pdb
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\+ConstructionClass.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Tetris\tetris\SimpleCode\+ConstructionClass\obj\Debug\net6.0\ref\+ConstructionClass.dll
