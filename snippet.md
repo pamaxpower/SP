@@ -1,4 +1,4 @@
-}
+{
         "Console Clear": {                  // название
 		"prefix": "CC",                     // комбинация клавиш
 		"body": "Console.Clear()",          // код
@@ -7,7 +7,7 @@
 
 	"Program.Main":  {
 		"prefix": "pm",
-		"body": "class Program\n{\n\tpublic void Main(string[] args)\n\t{\n\t\t$1\n\t}\n}",     // \n-новая строка, \t-отступ tab 
+		"body": "class Program\n{\n\tstatic void Main(string[] args)\n\t{\n\t\t$1\n\t}\n}",     // \n-новая строка, \t-отступ tab 
 		"description": ""
 	}
 }
